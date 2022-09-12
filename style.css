@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: grey;
+  padding: 5px;
+}
+
+hr {
+  color: grey;
+}
+
+p.long-read {
+  padding-left: 10px;
+}
